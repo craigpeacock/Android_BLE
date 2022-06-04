@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BLE Scanner</string>
+    <string name="about">About</string>
+
+    <string name="about_title">About BLE Energy Monitor</string>
+    <string name="about_message">Energy Monitor to report Battery Voltage, Current, Power and SoC.\n\nCopyright (C) 2022 BeyondLogic\nVersion\u0020</string>
+    <string name="about_ok_button">OK</string>
+
+    <string name="exit_title">Exit Application</string>
+    <string name="exit_message">Are you sure you want to exit?</string>
+    <string name="exit_ok_button">OK</string>
+    <string name="exit_cancel_button">Cancel</string>
+
+</resources>
